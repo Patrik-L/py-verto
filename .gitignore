@@ -1,0 +1,7 @@
+.testrun.py
+.venv
+.pytest_cache
+tests/__pycache__/
+py_verto/__pycache__/
+
+playground.py
